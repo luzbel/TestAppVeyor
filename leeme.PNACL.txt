@@ -7,6 +7,7 @@ TODO
 - Mejorar la pagina html para
 -- comprobar bien el soporte de pnacl (ahora sale un alert)
 -- sacar los mensajes de salida y poder depurar mejor los errores
+-- Dejar aparte en una rama muerta, porque PNaCl ya no es un proyecto vivo y es mejor seguir en la versión webassembly
 
 INSTRUCCIONES
 - Compilar con make -f Makefile.static.PNACL teniendo las siguientes variables de entorno
